@@ -112,4 +112,13 @@
         android:layout_alignTop="@+id/imageView1"
         android:layout_marginStart="35dp"
         android:src="@drawable/back" />
+
+    <ImageButton
+        android:id="@+id/tab"
+        android:layout_width="34dp"
+        android:layout_height="34dp"
+        android:layout_alignBottom="@+id/ba"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/tabbing" />
+
 </RelativeLayout>
