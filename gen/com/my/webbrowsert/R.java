@@ -9,8 +9,7 @@ package com.my.webbrowsert;
 
 public final class R {
     public static final class anim {
-        public static final int stop=0x7f040000;
-        public static final int welcome=0x7f040001;
+        public static final int welcome=0x7f040000;
     }
     public static final class attr {
     }
@@ -49,27 +48,29 @@ public final class R {
         public static final int wiki=0x7f020014;
     }
     public static final class id {
-        public static final int action_settings=0x7f090015;
-        public static final int ba=0x7f090013;
-        public static final int but2=0x7f09000e;
+        public static final int action_settings=0x7f090017;
+        public static final int ba=0x7f090015;
+        public static final int but2=0x7f090010;
         public static final int button1=0x7f090002;
-        public static final int editText1=0x7f09000c;
+        public static final int editText1=0x7f09000d;
         public static final int editText2=0x7f090001;
+        public static final int editText3=0x7f09000e;
         public static final int fb=0x7f090005;
-        public static final int fwd=0x7f090012;
+        public static final int fwd=0x7f090014;
         public static final int gm=0x7f090007;
-        public static final int hb=0x7f09000d;
+        public static final int hb=0x7f09000f;
         public static final int imageView1=0x7f090003;
         public static final int mainpage1=0x7f090000;
         public static final int mainpagelayout=0x7f09000a;
+        public static final int mini=0x7f09000c;
         public static final int music=0x7f090004;
         public static final int pb1=0x7f09000b;
-        public static final int reload=0x7f09000f;
+        public static final int reload=0x7f090011;
         public static final int shop=0x7f090008;
         public static final int stackflow=0x7f090009;
-        public static final int stop=0x7f090010;
-        public static final int tab=0x7f090014;
-        public static final int webView2=0x7f090011;
+        public static final int stop=0x7f090012;
+        public static final int tab=0x7f090016;
+        public static final int webView2=0x7f090013;
         public static final int wiki=0x7f090006;
     }
     public static final class layout {

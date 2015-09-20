@@ -41,12 +41,10 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"></action>
                 
-                <category android:name="android.intent.category.NORMAL" /> 
+                <category android:name="android.intent.category.MAIN" /> 
  
                  </intent-filter>
-        </activity>
-       
-        
+        </activity>        
     </application>
 
 </manifest>
